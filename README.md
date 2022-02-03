@@ -1,6 +1,6 @@
-# iONBain
+# Greetings of the day !
  
-### Hi, People! [Bhaskar](https://portfolio-ba.netlify.app/) here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">   Hi, People! [Bhaskar](https://portfolio-ba.netlify.app/) here. 
 
 <!--
 Here are some ideas to get you started: 👋 
@@ -16,21 +16,35 @@ Here are some ideas to get you started: 👋
 -->
 
 - Currently, I am
-    - 👨🏼‍🎓 working at TCS Ltd, Banglore as Systems Engineer.
-    - 💻 primarily interested in full-stack development
-    - 🧰 learning React and TypeScript
-    - 👩‍💻 trying to become more involved in open source
-- I am always eager to learn and explore new things
-- You can find me on:
+    - 👨🏼‍🎓 Working at TCS Ltd, Banglore as Systems Engineer.
+    - 💻 Interested to work in full-stack development
+    - 🧰 Currently learning JS, React and TypeScript, front-end stacks.
+    - 👩‍💻 Designing and making things look right is something I'm very enthusiastic about.
+- I have over 50 Rubiks Cubes in my collection (yes, Fifty) and can solve the 3x3 in a minute.
+- Tech Stacks I frequently work on:
+<p>
+
+&emsp;&emsp;
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="">
+    <img src="">
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" >
+
+
+</p> 
+- You can reach me out on:
 <p> &emsp;&emsp;
-    <a href="https://www.linkedin.com/in/patel-himanshu" target="_blank">
+    <a href="https://www.linkedin.com/in/bhaskar-agrawal-598b5a16b/" target="_blank">
         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://twitter.com/_Patel_Himanshu" target="_blank">
+    <a href="https://twitter.com/BAgrawal6
+" target="_blank">
         <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
-    <a href="https://patel-himanshu.github.io/" target="_blank">
-        <img alt="Portfolio Website" title="Portfolio Website" src="https://img.shields.io/badge/-Portfolio%20Website-D2D2D2?style=for-the-badge&logoColor=white"/>
+    <a href="https://portfolio-ba.netlify.app/
+" target="_blank">
+        <img alt="My Portfolio" title="Portfolio Website" src="https://img.shields.io/badge/-My%20Portfolio-D2D2D2?style=for-the-badge&logoColor=white"/>
     </a>
 </p>
 
@@ -55,3 +69,13 @@ Here are some ideas to get you started: 👋
             <em><a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">GitHub Readme Streak Stats</a></em>
     </p>
 </details> 
+<details>
+    <summary>
+        <strong>Graphical statistics</strong>
+    </summary>
+    <p>
+        <br />&emsp;
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iONBain&theme=vue" alt="Bhaskar Agrawal's Overall GitHub Stats" width="45%" />
+        <br />&emsp;
+        </p>
+        </details>
