@@ -14,7 +14,6 @@ Here are some ideas to get you started: 👋
 - ⚡ Fun fact: ...
 - 💼 working on getting a job/internship
 -->
-
 - Currently, I am
     - 👨🏼‍🎓 Working at TCS Ltd, Banglore as Systems Engineer.
     - 💻 Interested to work in full-stack development
@@ -27,13 +26,14 @@ Here are some ideas to get you started: 👋
 &emsp;&emsp;
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="">
-    <img src="">
+    <!-- <img src="">
+    <img src=""> -->
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" >
 
 
 </p> 
-- You can reach me out on:
+
+<strong>You can reach me out on:</strong>
 <p> &emsp;&emsp;
     <a href="https://www.linkedin.com/in/bhaskar-agrawal-598b5a16b/" target="_blank">
         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
