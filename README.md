@@ -19,7 +19,8 @@ Here are some ideas to get you started: 👋
     - 💻 Interested to work in full-stack development
     - 🧰 Currently learning JS, React and TypeScript, front-end stacks.
     - 👩‍💻 Designing and making things look right is something I'm very enthusiastic about.
-- I have over 50 Rubiks Cubes in my collection (yes, Fifty) and can solve the 3x3 in a minute.
+- I have over 50 Rubiks Cubes in my collection (yes, fifty) and can solve the 3x3x3 in a minute.
+- In my free time, I create digital vector arts centered around anime, logos, potraits and typography.
 - Tech Stacks I frequently work on:
 <p>
 
