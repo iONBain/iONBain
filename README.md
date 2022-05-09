@@ -2,18 +2,6 @@
  
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">   Hi, People! [Bhaskar](https://portfolio-ba.netlify.app/) here. 
 
-<!--
-Here are some ideas to get you started: 👋 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 💼 working on getting a job/internship
--->
 - Currently, I am
     - 👨🏼‍🎓 Working at TCS Ltd, Banglore as Systems Engineer.
     - 💻 Interested to work in full-stack development
@@ -27,8 +15,6 @@ Here are some ideas to get you started: 👋
 &emsp;&emsp;
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <!-- <img src="">
-    <img src=""> -->
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" >
 
 
@@ -49,10 +35,7 @@ Here are some ideas to get you started: 👋
     </a>
 </p>
 
-<!-- - You can find me on:
-  [<img align="center" height="25" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/patel-himanshu/)
-  [<img align="center" height="25" src="https://img.icons8.com/color/144/000000/twitter.png"/>](https://twitter.com/_Patel_Himanshu) -->
-  
+
 <details>
     <summary>
         <strong>My GitHub Analytics</strong>
