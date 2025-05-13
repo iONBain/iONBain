@@ -1,11 +1,10 @@
 # Greetings of the day !
  
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">   Hi, People! [Bhaskar](https://portfolio-ba.netlify.app/) here. 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">   Ohayooo! [Bhaskar A](https://portfolio-ba.netlify.app/) here. 
 
 - Currently, I am
-    - 👨🏼‍🎓 Working at TCS Ltd, Banglore as Systems Engineer.
-    - 💻 Interested to work in full-stack development
-    - 🧰 Currently learning JS, React and TypeScript, front-end stacks.
+    - 👨🏼‍🎓 Working at TCS Ltd, as Systems Engineer.
+    - 🧰 Currently leveraging JS, React and TypeScript, front-end stacks.
     - 👩‍💻 Designing and making things look right is something I'm very enthusiastic about.
 - I have over 50 Rubiks Cubes in my collection (yes, fifty) and can solve the 3x3x3 in a minute.
 - In my free time, I create digital vector arts centered around anime, logos, potraits and typography.
